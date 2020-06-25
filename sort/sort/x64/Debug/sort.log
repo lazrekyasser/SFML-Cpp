@@ -1,0 +1,73 @@
+﻿  snake.cpp
+C:\Users\hp\Desktop\sort\sort\snake.cpp(44,24): warning C4018: '>' : incompatibilité signed/unsigned
+C:\Users\hp\Desktop\sort\sort\snake.cpp(48,28): warning C4018: '>' : incompatibilité signed/unsigned
+C:\Users\hp\Desktop\sort\sort\snake.cpp(61,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\hp\Desktop\sort\sort\snake.cpp(61,31): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\hp\Desktop\sort\sort\snake.cpp(82,52): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\hp\Desktop\sort\sort\snake.cpp(82,47): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\hp\Desktop\sort\sort\snake.cpp(106,50): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\hp\Desktop\sort\sort\snake.cpp(106,45): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\hp\Desktop\sort\sort\snake.cpp(107,38): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\hp\Desktop\sort\sort\snake.cpp(107,30): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\hp\Desktop\sort\sort\snake.cpp(120,43): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\hp\Desktop\sort\sort\snake.cpp(120,33): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\hp\Desktop\sort\sort\snake.cpp(127,31): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\hp\Desktop\sort\sort\snake.cpp(127,25): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\hp\Desktop\sort\sort\snake.cpp(148,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\hp\Desktop\sort\sort\snake.cpp(180,30): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\hp\Desktop\sort\sort\snake.cpp(180,24): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\hp\Desktop\sort\sort\snake.cpp(184,11): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\hp\Desktop\sort\sort\snake.cpp(185,11): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\hp\Desktop\sort\sort\snake.cpp(186,8): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\hp\Desktop\sort\sort\snake.cpp(187,8): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\hp\Desktop\sort\sort\snake.cpp(188,42): warning C4244: 'argument' : conversion de 'double' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\hp\Desktop\sort\sort\snake.cpp(188,33): warning C4244: 'argument' : conversion de 'double' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+  sort.vcxproj -> C:\Users\hp\Desktop\sort\x64\Debug\sort.exe
